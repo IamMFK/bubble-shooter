@@ -1,4 +1,4 @@
-# 🌀 مدار حباب | Bubble Orbit
+# 🌀 Bubble Shooter
 
 <div align="center">
 
